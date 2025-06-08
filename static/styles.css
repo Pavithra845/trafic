@@ -1,0 +1,14 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+#traffic-monitor {
+    width: 80%;
+    margin: 0 auto;
+}
+
+video {
+    width: 100%;
+    height: auto;
+}
